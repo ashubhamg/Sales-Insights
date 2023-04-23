@@ -24,3 +24,5 @@ To get started with this project, follow these steps:
 4. Edit the data source in Power BI to connect to your SQL database.
 5. Refresh the data in Power BI to ensure it is up to date.
 6. Interact with the dashboard to explore the sales data.
+
+![Sales Insights](https://github.com/ashubhamg/Sales-Insights/blob/main/Sales_insights.png)
